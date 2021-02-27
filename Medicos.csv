@@ -1,0 +1,318 @@
+CODIGO | DESCRIPCION | ESPECIALIDAD | TURNOS
+0|Sin Atencion                  |1|Llamar a Consultorios
+1|SANCHEZ  DANIEL               |1|LUNES de 15:15 a 16:30 /
+2|CERTIFICADOS                  |1|MIERCOLES de 09:00 a 11:01 /VIERNES de 09:00 a 18:31 /
+3|DESCARTABLE PAP               |1|LUNES de 16:30 a 19:16 /VIERNES de 18:30 a 19:47 /
+4|CICAO MARCELO                 |2|LUNES de 17:00 a 19:20 /MARTES de 17:00 a 18:30 /
+5|COLETTA CARLA                 |4|MIERCOLES de 08:30 a 11:45 /VIERNES de 16:00 a 18:40 /SABADOS de 09:00 a 10:40 /
+7|DAGORRET ANALIA               |7|LUNES de 15:30 a 18:35 /MIERCOLES de 09:00 a 11:20 /JUEVES de 15:00 a 19:00 /VIERNES de 09:00 a 13:00 /
+8|STERNARI SILVIA               |15|MIERCOLES de 13:00 a 14:30 /
+9|ZECCA CLAUDIA                 |1|Llamar a Consultorios
+10|CAGGIANO MARIA GEORGINA       |33|LUNES de 17:00 a 18:40 /MARTES de 09:30 a 12:20 /MIERCOLES de 12:30 a 13:50 /JUEVES de 16:30 a 18:50 /
+11|PROTESIS/ORTODONCIA           |9|LUNES de 17:00 a 18:00 /
+12|MARCHESE DIEGO                |6|LUNES de 09:00 a 11:45 /MIERCOLES de 12:30 a 14:15 /JUEVES de 09:30 a 09:30 /VIERNES de 09:00 a 11:30 /
+13|TOMBOLINI LEANDRO IVAN        |15|LUNES de 13:30 a 16:00 /MARTES de 09:30 a 11:00 /JUEVES de 13:30 a 14:50 /VIERNES de 14:00 a 16:20 /
+14|SARANO MARIA SOL              |23|LUNES de 14:00 a 17:00 /MARTES de 10:30 a 13:10 /MIERCOLES de 16:00 a 18:20 /JUEVES de 10:30 a 12:50 /VIERNES de 10:00 a 12:40 /
+15|RODRIGUEZ JAVIER              |13|MARTES de 16:00 a 18:50 /JUEVES de 15:00 a 18:40 /
+16|LABORATORIO                   |18|Llamar a Consultorios
+17|BONZI LEONARDO                |15|LUNES de 11:30 a 19:30 /MARTES de 19:30 a 19:30 /VIERNES de 19:30 a 19:30 /
+18|DEMERGASSO MARIELA            |17|LUNES de 13:00 a 14:45 /MARTES de 17:00 a 18:50 /MIERCOLES de 18:00 a 19:50 /
+19|GIUSSANI NATALI               |4|MARTES de 09:00 a 12:20 /MIERCOLES de 11:00 a 18:20 /JUEVES de 09:00 a 12:45 /VIERNES de 14:30 a 18:00 /
+20|COSTA EVANGELINA              |15|JUEVES de 09:00 a 10:01 /
+21|BASA EXEQUIEL                 |33|LUNES de 11:00 a 12:00 /MARTES de 14:00 a 14:45 /
+22|GARCIA GUILLERMO              |1|MARTES de 17:00 a 18:45 /MIERCOLES de 17:00 a 18:30 /JUEVES de 15:00 a 19:15 /
+23|STAURINI SILVANA              |14|MARTES de 13:00 a 15:30 /
+24|CORRAL MARIQUENA              |17|MIERCOLES de 09:00 a 14:30 /
+25|PELLICCIOTTI DIEGO            |24|LUNES de 09:30 a 11:20 /JUEVES de 11:30 a 12:30 /VIERNES de 08:30 a 11:45 /
+26|CORRENTI SEBASTIAN            |8|LUNES de 16:00 a 19:32 /MIERCOLES de 15:30 a 16:40 /
+27|BRANDOLISIO MARIA EUGENIA     |1|LUNES de 09:00 a 11:45 /MARTES de 14:00 a 17:20 /MIERCOLES de 09:30 a 11:30 /JUEVES de 14:00 a 16:30 /
+28|BRONDELLO LORENA              |23|MARTES de 09:00 a 11:45 /JUEVES de 16:00 a 18:45 /
+29|FERRARI LAURA                 |21|LUNES de 08:30 a 10:30 /MARTES de 10:30 a 10:30 /MIERCOLES de 08:30 a 11:30 /JUEVES de 17:30 a 18:30 /VIERNES de 08:30 a 11:30 /
+30|DALMAU ALEJANDRA              |12|MARTES de 10:00 a 13:00 /MIERCOLES de 13:30 a 17:30 /
+31|BERTOLASINI MARCELA           |24|MARTES de 08:45 a 12:00 /
+32|CLUA SILVINA                  |24|LUNES de 09:00 a 11:45 /JUEVES de 09:00 a 15:45 /VIERNES de 14:00 a 17:00 /
+33|ZELADA BLANCA NORA            |22|MARTES de 16:00 a 17:45 /JUEVES de 19:00 a 19:45 /
+34|BERTANI MARIA FERNANDA        |21|Llamar a Consultorios
+35|BARRAGAN MARIA BELEN          |22|MARTES de 09:00 a 10:10 /
+36|GERONIMO MELINA               |15|Llamar a Consultorios
+37|TREPAT GISELA                 |27|Llamar a Consultorios
+38|SAMBUCETTI JONATAN            |18|Llamar a Consultorios
+39|RECALDE RICARDO               |14|Llamar a Consultorios
+40|NARBE IVAN                    |20|LUNES de 14:00 a 17:45 /MIERCOLES de 08:30 a 11:45 /JUEVES de 08:30 a 11:45 /VIERNES de 08:30 a 11:45 /
+41|MOSCONI LUCAS                 |2|MIERCOLES de 09:00 a 10:50 /JUEVES de 14:00 a 14:00 /VIERNES de 10:00 a 11:20 /
+42|BAELLA ANA LAURA              |1|MARTES de 13:30 a 16:30 /MIERCOLES de 12:30 a 15:00 /VIERNES de 12:30 a 16:10 /
+43|ALVAREZ ARIEL SILVIO          |30|MIERCOLES de 17:00 a 18:20 /
+44|DEPETRIS FRANCO               |28|LUNES de 15:00 a 16:30 /JUEVES de 09:00 a 12:00 /VIERNES de 09:00 a 11:40 /
+45|PRIOTTI MAURICIO              |28|LUNES de 09:00 a 11:40 /MIERCOLES de 17:30 a 18:45 /JUEVES de 09:00 a 11:15 /VIERNES de 17:30 a 19:00 /
+46|MARTINELLI FLORENCIA          |17|LUNES de 13:00 a 14:45 /MARTES de 14:30 a 17:50 /JUEVES de 10:30 a 13:20 /VIERNES de 09:00 a 14:50 /
+47|PEREYRA MELINA                |4|LUNES de 08:30 a 10:30 /MARTES de 13:30 a 15:10 /
+48|FONTANA NATALIA               |14|MARTES de 08:00 a 13:30 /MIERCOLES de 08:00 a 12:00 /VIERNES de 08:00 a 12:30 /
+49|LUPO MARIO                    |1|LUNES de 08:00 a 09:45 /MIERCOLES de 14:00 a 15:15 /JUEVES de 12:30 a 14:15 /VIERNES de 12:00 a 13:45 /
+50|ALVARO ANDREA VERONICA        |4|LUNES de 15:00 a 18:15 /MARTES de 09:30 a 11:30 /JUEVES de 14:00 a 18:30 /VIERNES de 10:00 a 11:45 /SABADOS de 10:00 a 11:45 /
+51|MANGUSI MONICA                |21|LUNES de 12:00 a 12:00 /
+52|SCHEUERLEIN KARINA            |1|MIERCOLES de 13:45 a 16:00 /VIERNES de 14:00 a 18:45 /
+53|GAZQUEZ NATALIA               |18|Llamar a Consultorios
+54|BECHIO DANIELA                |28|MARTES de 16:00 a 18:45 /
+55|GARCILAZO EMILIANO            |1|Llamar a Consultorios
+56|CARBAJAL SEBASTIAN            |18|SABADOS de 10:00 a 11:45 /
+57|ANDRADA CECILIA               |1|LUNES de 15:00 a 17:45 /
+82|ROSSI LUCRECIA                |1|Llamar a Consultorios
+90|VACUNAS                       |1|LUNES de 15:00 a 19:15 /MARTES de a 19:15 /MIERCOLES de 15:00 a 19:15 /JUEVES de 15:00 a 19:15 /VIERNES de 15:00 a 19:15 /SABADOS de 10:00 a 12:30 /
+99|LOSCHIAVO EDUARDO             |35|MARTES de 15:00 a 17:00 /JUEVES de 14:00 a 16:00 /SABADOS de 09:00 a 12:00 /
+100|CENTRO MEDICO                 |19|Llamar a Consultorios
+110|ODONTOLOGOS                   |26|SABADOS de 09:00 a 12:00 /
+200|SCOZZINA YANINA DEL LUJAN     |26|Llamar a Consultorios
+823|NICOLORICH PEDRO              |26|Llamar a Consultorios
+891|BARD ILONA                    |26|Llamar a Consultorios
+925|SANCHEZ OMAR                  |26|Llamar a Consultorios
+1084|CROSI SILVIO                  |26|Llamar a Consultorios
+1204|MUNE MIGUEL A                 |26|Llamar a Consultorios
+1230|PIVIDORI DIMAS JOSE           |26|Llamar a Consultorios
+1233|NOSTE JOSE LUIS               |26|Llamar a Consultorios
+1251|SIMONUTTI NELLY               |26|Llamar a Consultorios
+1273|ACEVEDO ETELVINA              |26|Llamar a Consultorios
+1294|LOMBARDO GRACIELA             |26|Llamar a Consultorios
+1320|CERLIANI JORGE                |26|Llamar a Consultorios
+1409|DOSSENA PAUL                  |26|Llamar a Consultorios
+1428|SCHMID VICTOR                 |26|Llamar a Consultorios
+1457|MAMUT HECTOR CARLOS           |26|Llamar a Consultorios
+1599|CUEVAS EDGARDO                |26|MARTES de 16:00 a 16:45 /MIERCOLES de 10:00 a 10:50 /JUEVES de 08:30 a 15:00 /VIERNES de 14:00 a 18:30 /
+1677|RATHGE DANIEL                 |26|Llamar a Consultorios
+1685|RUCCI ROBERTO                 |26|Llamar a Consultorios
+1698|BERGAGLIO LILIANA             |26|Llamar a Consultorios
+1730|PIERANTOZI GERARDO            |26|Llamar a Consultorios
+1777|ALVAREZ SILVIA                |26|Llamar a Consultorios
+1805|LUDUEÑA SANDRA                |26|Llamar a Consultorios
+1855|CATTANEO ADRIANA              |26|Llamar a Consultorios
+1872|KEPPL JOSE FRANCISCO          |26|Llamar a Consultorios
+1904|NERBUTTI NANCY                |26|Llamar a Consultorios
+1905|OLOBARDI MARCO                |26|Llamar a Consultorios
+1913|SANTECCHIA ADRIANA            |26|Llamar a Consultorios
+1959|DRAB ALICIA BEATRIZ           |26|Llamar a Consultorios
+1978|PETTITI ALICIA                |26|Llamar a Consultorios
+1993|CORNAGLIA JORGE               |26|Llamar a Consultorios
+2002|AMICO BEATRIZ                 |26|Llamar a Consultorios
+2013|ESTEYBAR NESTOR               |26|Llamar a Consultorios
+2037|DIAZ NORA BEATRIZ             |26|Llamar a Consultorios
+2055|BANDF LAURA                   |26|Llamar a Consultorios
+2085|LLASEN MARIA                  |26|Llamar a Consultorios
+2093|ALMADA OSVALDO                |26|Llamar a Consultorios
+2095|ABALONE MIRTA                 |26|Llamar a Consultorios
+2097|CERUTTI MARIA ANDREA          |26|Llamar a Consultorios
+2135|ALONSO CRISTINA               |26|Llamar a Consultorios
+2244|AGUZZI JORGE                  |26|Llamar a Consultorios
+2253|LISTE RAUL                    |26|Llamar a Consultorios
+2259|PERRINO JORGE A.              |26|Llamar a Consultorios
+2308|VALENTINI EDUARDO             |26|Llamar a Consultorios
+2363|ARUACHAN MIRIAN               |26|Llamar a Consultorios
+2366|ALBANELLO RUBEN               |26|Llamar a Consultorios
+2396|ACETTI NOEMI                  |26|Llamar a Consultorios
+2397|MEROI SUSANA                  |26|Llamar a Consultorios
+2444|PERLO MARICEL                 |26|Llamar a Consultorios
+2446|EXPOSITO MAURICIO             |26|Llamar a Consultorios
+2530|AGUIRRE STELLA                |26|Llamar a Consultorios
+2535|AGLIERI SANDRA                |26|Llamar a Consultorios
+2540|MARTINEZ ADRIANA              |26|Llamar a Consultorios
+2544|GOMEZ ANA                     |26|Llamar a Consultorios
+2555|PASINI CESAR                  |26|Llamar a Consultorios
+2570|RONGA SANDRA                  |26|Llamar a Consultorios
+2575|TRIASSI JOSE ALBERTO          |26|Llamar a Consultorios
+2581|CANAU MIRTA                   |26|Llamar a Consultorios
+2614|MACHADO MONICA                |26|Llamar a Consultorios
+2615|CRISTALLI PATRICIA            |26|Llamar a Consultorios
+2645|MANCINI OMAR                  |26|Llamar a Consultorios
+2659|FUNOSAS ESTEBAN               |26|Llamar a Consultorios
+2660|ABAD SILVIA                   |26|Llamar a Consultorios
+2671|RADICA DOMINGO ERNESTO        |26|Llamar a Consultorios
+2676|BELTRAMONE LEONARDO           |26|Llamar a Consultorios
+2677|MALLIA MARCELO                |26|Llamar a Consultorios
+2685|PARRELLA MARIA ANGELICA       |26|Llamar a Consultorios
+2706|SANCHEZ GRACIELA              |26|Llamar a Consultorios
+2722|KILSTEIN MIRTA                |26|Llamar a Consultorios
+2732|TERENGHI ALEJANDRA            |26|Llamar a Consultorios
+2750|MANARIN MARIA ALEJANDARA      |26|Llamar a Consultorios
+2756|ANGELERI SERGIO               |26|Llamar a Consultorios
+2757|PERALTA MARCELO               |26|Llamar a Consultorios
+2758|VITELLESCHI MIGUEL            |26|Llamar a Consultorios
+2769|MARGONARI JORGE               |26|Llamar a Consultorios
+2815|CRISTALLI PATRICIA            |26|Llamar a Consultorios
+2828|VILLALONGA MARIO              |26|Llamar a Consultorios
+2842|GASSIBE PABLO                 |26|Llamar a Consultorios
+2850|PERLO SILVANA                 |26|Llamar a Consultorios
+2875|BRAGA MAECELO                 |26|Llamar a Consultorios
+2885|MORA NOEMI                    |26|Llamar a Consultorios
+2891|CORTIÑAS EVANGELINA           |26|Llamar a Consultorios
+2929|ELIJES SAMUEL                 |26|Llamar a Consultorios
+2936|ALESSIO ANA                   |26|Llamar a Consultorios
+2941|FAGIOLI MAZZAPODI ANA         |26|Llamar a Consultorios
+2960|VITOLA LEONARDO               |26|Llamar a Consultorios
+2976|CIAVATTI ELENA                |26|Llamar a Consultorios
+2994|DELFINO JOSE CARLOS           |26|Llamar a Consultorios
+3015|BARZANTE KUETER ELDA          |26|Llamar a Consultorios
+3022|GUTIERREZ VIVIANA             |26|Llamar a Consultorios
+3027|FRUM MARCELO                  |26|Llamar a Consultorios
+3030|ARMENDARIZ CARLA              |26|Llamar a Consultorios
+3050|BLOTTA ARIEL                  |26|Llamar a Consultorios
+3071|BLAHA MARIO RODOLFO           |26|Llamar a Consultorios
+3084|FIORITO ELIDA                 |26|Llamar a Consultorios
+3141|CRISTOFERONI VERONICA         |26|Llamar a Consultorios
+3177|DEL PASO RODRIGO              |26|Llamar a Consultorios
+3220|VALES MARISA                  |26|Llamar a Consultorios
+3263|DUMORTIER MIRIAM              |26|Llamar a Consultorios
+3265|ZANCOCCHIA FABIAN             |26|Llamar a Consultorios
+3267|ABUIN MARIA CRISTINA          |26|Llamar a Consultorios
+3283|FERRER DE PERALTA ANA G       |26|Llamar a Consultorios
+3305|MAZZOLENI SANDRA              |26|Llamar a Consultorios
+3315|GIMENEZ MARIA VERONICA        |26|Llamar a Consultorios
+3326|MEROI GABRIEL                 |26|Llamar a Consultorios
+3384|MARCHI NERINA                 |26|Llamar a Consultorios
+3393|ALESIO DEBORA                 |26|Llamar a Consultorios
+3431|CUE CINTIA                    |26|Llamar a Consultorios
+3457|SCHONBERGER MIRTA SUSANA      |26|Llamar a Consultorios
+3465|GARBARINO CECILIA             |26|Llamar a Consultorios
+3474|WAGNER MARTIN PETER           |26|Llamar a Consultorios
+3486|AGUIRRE MARISA                |26|Llamar a Consultorios
+3487|BRACALENTI ILEANA             |26|Llamar a Consultorios
+3494|MANRIQUE DIEGO                |26|Llamar a Consultorios
+3498|MALOCHWIEJ SILVINA            |26|Llamar a Consultorios
+3506|DIAZ DANIEL                   |26|Llamar a Consultorios
+3509|MARCONI VALERIA               |26|Llamar a Consultorios
+3518|VILLAR LEONARDO               |26|Llamar a Consultorios
+3530|TOSI RICARDO                  |26|Llamar a Consultorios
+3534|GONZALEZ KARINA BEATRIZ       |26|Llamar a Consultorios
+3545|ESQUIVEL EVELINA              |26|Llamar a Consultorios
+3557|ANADO MARCELO                 |26|Llamar a Consultorios
+3597|ZALDIVAR VIRGINIA             |26|Llamar a Consultorios
+3606|PINTOR OMAR                   |26|Llamar a Consultorios
+3616|JAEF EDGARDO                  |26|Llamar a Consultorios
+3640|ROSALES MARIANO               |26|Llamar a Consultorios
+3652|SCOZZINA YANINA DEL LUJAN     |26|Llamar a Consultorios
+3663|DIAZ ROXANA                   |26|Llamar a Consultorios
+3674|NARDONE IVANA                 |26|Llamar a Consultorios
+3701|SERRAT LEONARDO               |26|Llamar a Consultorios
+3706|SEVERIN MARIA ALEJANDRA       |26|MARTES de 12:00 a 19:00 /MIERCOLES de 10:00 a 17:00 /VIERNES de 08:00 a 11:30 /
+3707|SAENZ MARCELO                 |26|Llamar a Consultorios
+3713|BAER WALTER                   |26|Llamar a Consultorios
+3714|SERENELLI LORENA              |26|Llamar a Consultorios
+3729|NICOLORICH BERNARDO           |26|Llamar a Consultorios
+3741|AIRALDO MARIELA ALEJANDRA     |26|Llamar a Consultorios
+3769|ROTTA JAVIER IGNACIO          |26|Llamar a Consultorios
+3776|RODRIGUEZ NATALIA             |26|Llamar a Consultorios
+3793|ABDO GONZALO                  |26|Llamar a Consultorios
+3797|GARELLO SANDRA                |26|Llamar a Consultorios
+3833|VENTURINI PRUSS VALENTINA     |26|Llamar a Consultorios
+3836|AJUN NORMANDO                 |26|Llamar a Consultorios
+3837|PIVA MAURICIO                 |26|Llamar a Consultorios
+3855|CROCI RAQUEL                  |26|Llamar a Consultorios
+3859|FERREYRA MARCOS               |26|Llamar a Consultorios
+3860|GONZALEZ CAROLINA             |26|Llamar a Consultorios
+3873|CERLIANI MAXIMILIANO          |26|Llamar a Consultorios
+3896|JAIME MAXIMILIANO MARCOS      |26|Llamar a Consultorios
+3903|DIAZ BERNABE SEBASTIAN        |26|Llamar a Consultorios
+3917|GONZALEZ LEONARDO             |26|Llamar a Consultorios
+3922|GUTIERREZ MARIA VIRGINIA      |26|Llamar a Consultorios
+3929|BEDINI FLORENCIA              |26|Llamar a Consultorios
+3933|GONZALEZ JIMENA               |26|Llamar a Consultorios
+3946|OSARIO MARIANO                |26|Llamar a Consultorios
+3955|GUSTAFSSON GUILLERMO          |26|MARTES de 09:00 a 12:30 /
+3992|DEL SOL RENE CRISTIAN         |26|Llamar a Consultorios
+3993|COHEN GISELA ANDREA           |26|Llamar a Consultorios
+4033|LAPOUGE MARCOS                |26|Llamar a Consultorios
+4047|AMATI LUCIANO MARTIN          |26|Llamar a Consultorios
+4073|GONZALEZ MAURICIO JOSE        |26|Llamar a Consultorios
+4088|BUSTOS MARTIN                 |26|Llamar a Consultorios
+4108|GUTIERREZ LAURA               |26|Llamar a Consultorios
+4119|ARCIDIACONO MARIA ELINA       |26|Llamar a Consultorios
+4120|ABREU MARIA LAURA             |26|Llamar a Consultorios
+4149|BOSCH FRANCO                  |26|Llamar a Consultorios
+4151|PONCE TRUCCONI ALAN           |26|Llamar a Consultorios
+4155|ALTARE LIA                    |26|Llamar a Consultorios
+4156|ALOD NADINA                   |26|Llamar a Consultorios
+4194|REYES ALEJANDRA               |26|Llamar a Consultorios
+4202|VACILIEVICH MARIA CECILIA     |26|Llamar a Consultorios
+4206|COMINELLI LAURA               |26|Llamar a Consultorios
+4255|DOLCEMASCOLO GISELA           |26|Llamar a Consultorios
+4269|SCARPELLO SILVANA             |26|Llamar a Consultorios
+4291|ALFISZ GONZALO                |26|Llamar a Consultorios
+4323|CARNEVALE MARIA SOLEDAD       |26|Llamar a Consultorios
+4326|COZZI MARIANELA               |26|Llamar a Consultorios
+4332|AMERISE LICIANA               |26|Llamar a Consultorios
+4346|GARINO MARIA GISELA           |26|Llamar a Consultorios
+4348|MARCONI LUCIANO               |26|Llamar a Consultorios
+4353|SOSIC CAROLINA                |26|Llamar a Consultorios
+4382|PANIGUTTO GERMAN              |26|Llamar a Consultorios
+4412|ACCURSO MARIA CAROLINA        |26|Llamar a Consultorios
+4458|MARQUANDT ENRIQUE             |26|Llamar a Consultorios
+4463|MAURE ROMINA                  |26|Llamar a Consultorios
+4469|RUCCI CRISTIAN                |26|Llamar a Consultorios
+4481|DOSSENA ALEJANDRO             |26|Llamar a Consultorios
+4500|MENDEZ MARIANO                |26|Llamar a Consultorios
+4544|NOGUES SOFIA                  |26|Llamar a Consultorios
+4562|GARCIA PABLO J                |26|Llamar a Consultorios
+4591|AIRALDO DIEGO SEBASTIAN       |26|Llamar a Consultorios
+4592|BERTUZZI EMILCE               |26|Llamar a Consultorios
+4594|SEVILLANO YANINA              |26|Llamar a Consultorios
+4595|COLUCCI NATALIA               |26|Llamar a Consultorios
+4600|AINSUAIN JULIAN SANTIAGO      |26|Llamar a Consultorios
+4601|VALLONE MARIELA               |26|Llamar a Consultorios
+4617|TONELOTTO MAURO               |26|Llamar a Consultorios
+4647|RUILOPEZ MARIA BELEN          |26|Llamar a Consultorios
+4652|SCOZZINA YANINA               |26|Llamar a Consultorios
+4662|PERALTA CARLOS                |26|Llamar a Consultorios
+4667|LA SPINA SILVANA              |26|LUNES de 17:30 a 19:00 /VIERNES de 09:00 a 11:30 /
+4686|VIOLA LUCIANO                 |26|Llamar a Consultorios
+4687|ROSA SILVIA FERNANDA          |26|Llamar a Consultorios
+4688|TALAMONTI DIEGO               |26|Llamar a Consultorios
+4691|FERNANDEZ VALERIA             |26|Llamar a Consultorios
+4740|RISSO EZEQUIEL                |26|Llamar a Consultorios
+4778|PALADINI MARIA VICTORIA       |26|Llamar a Consultorios
+4816|PALADINI JAVIER               |26|Llamar a Consultorios
+4829|MELON HERNAN                  |26|Llamar a Consultorios
+4855|CORVINO CINTIA                |26|Llamar a Consultorios
+4861|CORSETTI MICAELA              |26|Llamar a Consultorios
+4865|ALIANAK GUILLERMINA           |26|Llamar a Consultorios
+4867|MUR JORGELINA                 |26|Llamar a Consultorios
+4869|SALMONE ROMINA                |26|Llamar a Consultorios
+4874|URMENETA MELISA               |26|Llamar a Consultorios
+4878|CORDOBA FERNANDO              |26|Llamar a Consultorios
+4922|OJEDA AZULA VICENTA           |26|Llamar a Consultorios
+4932|CHAQUI AILEN NURIT            |26|Llamar a Consultorios
+4939|MORELLI MARCELO               |26|Llamar a Consultorios
+4946|VENTURELLI MARIA JIMENA       |26|Llamar a Consultorios
+4969|STEPNIK GERMAN                |26|Llamar a Consultorios
+4977|MEZZABOTTA DARIO JAVIER       |26|Llamar a Consultorios
+4993|LOPEZ SABRINA                 |26|Llamar a Consultorios
+5011|PETTA OMAR RAUL               |26|Llamar a Consultorios
+5020|LOPEZ KHAZRIK GABRIELA        |26|Llamar a Consultorios
+5031|GROSSI MARINA DANIELA         |26|Llamar a Consultorios
+5070|MUNE ANTONELA                 |26|Llamar a Consultorios
+5075|SANCHEZ YAMILA                |26|Llamar a Consultorios
+5083|FORNASSIERO GEORGINA          |26|Llamar a Consultorios
+5093|SEGALES ESTEFANÍA             |26|Llamar a Consultorios
+5100|MAINO CARLA                   |26|Llamar a Consultorios
+5155|FERNANDEZ JOSE                |26|Llamar a Consultorios
+5156|GRAZIANI MARIEL               |26|Llamar a Consultorios
+5169|ROMERO MAURICIO               |26|Llamar a Consultorios
+5172|COLAUTTI LUISINA              |26|Llamar a Consultorios
+5176|YAUCK DANIELA B.              |26|Llamar a Consultorios
+5195|VOGHERA CAREN                 |26|Llamar a Consultorios
+5227|BAER ERICA                    |26|Llamar a Consultorios
+5228|BONDARI CINTIA                |26|Llamar a Consultorios
+5242|OLOBARDI MARINA               |26|Llamar a Consultorios
+5245|SANCHEZ MARIA FLORENCIA       |26|MARTES de 16:00 a 19:00 /
+5253|DIEZ NOELI                    |26|Llamar a Consultorios
+5272|BLOTTA FRANCISCO              |26|Llamar a Consultorios
+5293|OLOBARDI BRUNELA              |26|Llamar a Consultorios
+5340|MANGIATERRA NAZARENO          |26|Llamar a Consultorios
+5376|ESQUIVEL LUISA                |26|Llamar a Consultorios
+5388|SANCHEZ DANIELA               |26|LUNES de 08:30 a 14:30 /JUEVES de 17:00 a 18:55 /
+5398|MAMUT SOSA VALENTINA          |26|Llamar a Consultorios
+5404|CORNAGLIA MARIA VIRGINIA      |26|Llamar a Consultorios
+5414|MARENCO JOHANA                |26|Llamar a Consultorios
+5492|LUCCI GISELA                  |26|Llamar a Consultorios
+5570|BLANDO MARIA EUGENIA          |26|Llamar a Consultorios
+5576|D ANGELO SABRINA              |26|LUNES de 16:00 a 18:30 /VIERNES de 15:30 a 18:00 /
+5822|SOSA GRISELDA VALERIA         |26|Llamar a Consultorios
+5949|DIAMELIO GUSTAVO              |26|VIERNES de 13:00 a 19:30 /
+5963|RAPP EMILIA                   |26|MARTES de 14:30 a 18:00 /
+11111|BLANCO ROBERTO                |26|Llamar a Consultorios
