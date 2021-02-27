@@ -22,7 +22,7 @@ app.post('/webhook', (req, res) => {
         connection.query('SELECT * from Medicos', function (error, results, fields) {
         if (error) throw error;
         // results.forEach(result => {console.log("Medico nombre: ", result.Descripcion)});
-        res.send("respuesta: ", results[0].Descripcion);
+        res.status(200).send("respuesta: " + results[0].Descripcion);
       }); 
        
     } else {
