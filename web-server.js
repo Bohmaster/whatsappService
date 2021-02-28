@@ -82,6 +82,7 @@ const sessions = {
 app.post('/webhook', (req, res) => {
  console.log(1, req.body.type, req.body.payload.payload.text);   
  if (req.body.type === "message" && req.body.payload.payload.text === "1") {
+        console.log(req.body);
         const currentSession = sessions[req.body.from];
         const step = steps[currentSession + 1];
 
