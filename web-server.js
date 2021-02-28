@@ -20,13 +20,12 @@ app.use(bodyParser.json());
 const steps = [
     {
         text: "Bienvenido al sistema de turnos",
-        options: ["Mande 1 para ver especialidades"]
     },
     {
         text: "Seleccione especialidad",
         sql: "Select * FROM Especialidades",
         options: [],
-        setOption: function(options) {
+        setOptions: function(options) {
             this.options = options;
         }
     },
@@ -92,13 +91,12 @@ app.post('/webhook', (req, res) => {
         if (step.sql) {
             connection.query(step.sql, function (error, results, fields) {
                 if (error) throw error;
-                // results.forEach(result => {console.log("Medico nombre: ", result.Descripcion)});
-                res.status(200).send(step.text + " " + step.options(results));
+
+                step.setOptions(results);
             });
-        } else {
-            const message = createResponse(step);
-            res.send(message);
-        }   
+        }
+
+        res.send(createReponse(step));
     } 
 });
 
