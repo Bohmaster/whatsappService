@@ -19,32 +19,24 @@ app.use(bodyParser.json());
 
 const steps = [
     {
-        text: "Bienvenido al sistema de turnos. Escriba 1 para ver los médicos",
-        options: [
-            "1- Elija una especialidad"
-        ]
+        text: "Bienvenido al sistema de turnos",
+        options: ["Mande 1 para ver especialidades"]
     },
     {
         text: "Seleccione especialidad",
         sql: "Select * FROM Especialidades",
-        options: function(specialities) {
-            let optionsStr = "";
-
-            specialities.forEach(speciality => {
-                optionsStr += " " + speciality.Descripcion
-            });
+        options: [],
+        setOption: function(options) {
+            this.options = options;
         }
     },
     {
         
         text: "Seleccione medico",
         sql: "SELECT * FROM Medicos",
-        options: function(specialists) {
-            let optionsStr = "";
-
-            specialist.forEach(specialist => {
-                optionsStr += " " + specialit.Descripcion
-            });
+        options: [],
+        setOptions: function(options) {
+            this.options = options;
         }
     }
 ];
@@ -79,10 +71,21 @@ const sessions = {
     }
 };
 
+const createReponse = step => {
+    let message = step.text;
+    
+    if (step.options) {
+        step.options.forEach(option => {
+            message += " " + option.Descripcion;
+        });
+    }
+
+    return message;
+};
+
 app.post('/webhook', (req, res) => {
  console.log(1, req.body.type, req.body.payload.payload.text);   
  if (req.body.type === "message" && req.body.payload.payload.text === "1") {
-        console.log(req.body);
         const currentSession = sessions[req.body.payload.source];
         const step = steps[currentSession.step.currentIndex];
 
@@ -93,7 +96,8 @@ app.post('/webhook', (req, res) => {
                 res.status(200).send(step.text + " " + step.options(results));
             });
         } else {
-            res.send(step.text);
+            const message = createResponse(step);
+            res.send(message);
         }   
     } 
 });
