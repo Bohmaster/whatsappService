@@ -96,7 +96,9 @@ app.post('/webhook', (req, res) => {
             });
         }
 
+
         res.send(createReponse(step));
+        currentSession.step = steps[step.current + 1];
     } 
 });
 
