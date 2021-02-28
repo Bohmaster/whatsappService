@@ -83,8 +83,8 @@ app.post('/webhook', (req, res) => {
  console.log(1, req.body.type, req.body.payload.payload.text);   
  if (req.body.type === "message" && req.body.payload.payload.text === "1") {
         console.log(req.body);
-        const currentSession = sessions[req.body.from];
-        const step = steps[currentSession + 1];
+        const currentSession = sessions[req.body.payload.source];
+        const step = steps[currentSession];
 
         if (step.sql) {
             connection.query(step.sql, function (error, results, fields) {
