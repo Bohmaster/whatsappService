@@ -92,10 +92,10 @@ app.post('/webhook', (req, res) => {
                 // results.forEach(result => {console.log("Medico nombre: ", result.Descripcion)});
                 res.status(200).send(step.text + " " + step.options(results));
             });
-        }
-    } else {
-       res.send(step.text);
-    }
+        } else {
+            res.send(step.text);
+        }   
+    } 
 });
 
 app.listen(3004, ()=> {
